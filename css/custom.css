@@ -1,0 +1,187 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 100px;
+
+overflow-x:hidden;
+    overflow-y: scroll;
+}
+
+}
+
+
+#get-involved {
+
+	background-color: white;
+}
+
+
+#who {
+
+	background-color: #f5f5f5;
+}
+
+
+#contact {
+
+	background-color: white;
+}
+
+
+#form {
+
+	background-color: #f5f5f5;
+
+}
+
+
+#services {
+
+	background-color: #f5f5f5;
+
+}
+
+ul.nav {
+
+	font-family: 'Arvo', courier, serif ;
+	font-size: 15px;
+
+}
+
+
+
+.jumbotron h1 {
+
+		font-family: 'Arvo', courier, serif ; color: white;
+		margin-top: 0px;
+		margin-bottom: 50px;
+
+
+}
+
+.jumbotron p{
+
+	margin-top: 10px;
+	margin-bottom: 25px;
+	padding: 0px 50px;
+}
+.btn-lg{
+
+font-size: 36px;
+}
+
+.homepage{
+	
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+.form{
+	
+text-align: center;
+padding-top: 20px;
+padding-bottom: 30px;
+
+}
+.form br{
+
+	display: block;
+   margin: 10px 0;
+}
+
+
+.form hr{
+
+	border-top: 2px solid black;
+	width: 160px;
+	margin-top: 15px;
+}
+
+.form a{
+
+color: #e74c3c;
+}
+.form h2{
+
+color: #e74c3c;
+    font-family: 'Arvo', courier, serif;
+    text-transform: uppercase;
+
+}
+
+.homepage h2, .homepage h3{
+
+color: #d40000;
+    font-family: 'Arvo', courier, serif;
+    text-transform: uppercase;
+
+}
+
+.homepage h2{
+
+	font-size: 3em;
+    margin-top: 0px;
+}
+.homepage h3{
+
+    font-size: 26px;
+}
+
+.homepage p{
+
+	font-size: 21px;
+	font-weight: 300;
+}
+
+.homepage a {
+
+	color: #e74c3c;
+}
+
+.homepage a:hover{
+
+	text-decoration: none;
+	opacity: .8;
+	color: #e74c3c;
+}
+
+.homepage hr{
+
+	border-top: 2px solid black;
+	width: 160px;
+	margin-top: 15px;
+}
+
+footer{
+background-color: #d40000;
+padding-top: 50px;
+padding-bottom: 50px;
+color: black;
+    font-family: 'Arvo';
+    font-size: 20px;
+    margin-bottom: 0px;
+
+}
+
+.imgresponsive{
+    
+    max-width: 100%; 
+    height: auto;
+    
+}
+
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
+
+
+.row img
+{
+    width:350px; height:200px;
+    padding:10px;
+    
+}
+
+#success_message{ display: none;}
